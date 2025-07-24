@@ -405,15 +405,10 @@ UniversityAdmissionAdvisor-Agent/
 ├── README.md                           # This file
 ├── career_predictor_model.pkl          # ML model for career predictions
 ├── career_mock_data_1000.csv           # Training data for career model
-├── google_result.html                  # External data source
-├── graph.db                           # LangGraph database
-├── career_graph.db                    # Career agent database
 └── backend/
     ├── supervisor_main.py             # Main application
     ├── supervisor_agent.py            # Supervisor agent logic
-    ├── test_chat_retrieval.py         # Chat retrieval tests
     ├── README.md                      # Backend documentation
-    ├── supervisor_graph.db            # Supervisor database
     ├── advisor_agent/                 # University guidance
     │   ├── main.py
     │   ├── UnisRecomender.py
@@ -430,7 +425,6 @@ UniversityAdmissionAdvisor-Agent/
     │   ├── career_states.py
     │   ├── career_graph.py
     │   ├── train_model.py
-    │   ├── career_graph.db
     │   ├── requirements.txt
     │   ├── README.md
     │   └── __init__.py
