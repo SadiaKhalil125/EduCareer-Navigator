@@ -1,0 +1,28 @@
+# Minimal Production Requirements
+# Only essential dependencies for running the application
+
+# Core AI and Language Processing
+langchain>=0.1.0
+langchain-openai>=0.1.0
+langgraph>=0.1.0
+openai>=1.0.0
+
+# Machine Learning (for career predictions)
+scikit-learn>=1.3.0
+pandas>=2.0.0
+numpy>=1.24.0
+joblib>=1.3.0
+
+# Web Framework
+streamlit>=1.28.0
+
+# Database
+pymongo>=4.5.0
+dnspython>=2.3.0
+
+# Data Validation
+pydantic>=2.0.0
+
+# Utilities
+python-dotenv>=1.0.0
+regex>=2023.0.0 

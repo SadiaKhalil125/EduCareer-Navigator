@@ -1,0 +1,1001 @@
+Math,Bio,Interest_Tech,Interest_Art,Group_Work,Logical_Thinking,Likes_Speaking,Career
+81,44,0,1,0,0,0,Design
+53,32,1,0,1,1,1,IT
+59,67,1,1,1,0,0,Social Sciences
+87,51,0,1,0,0,0,Design
+88,71,1,1,1,1,0,Engineering
+91,91,0,1,0,1,0,Medicine
+93,32,0,0,0,0,0,Social Sciences
+68,47,1,0,1,1,1,IT
+38,82,1,1,1,0,1,Business
+100,73,0,1,0,0,1,Design
+65,79,1,1,1,1,1,Business
+83,33,1,0,0,1,1,Engineering
+73,63,1,1,1,1,0,Social Sciences
+77,44,1,1,0,1,0,Social Sciences
+91,69,0,1,0,1,0,Design
+82,53,1,0,1,1,1,Engineering
+70,58,0,0,0,0,0,Social Sciences
+38,30,1,1,1,0,0,Social Sciences
+37,64,0,0,0,0,1,Education
+70,57,0,0,1,1,1,Education
+62,77,0,0,1,1,0,Social Sciences
+73,64,0,0,0,0,1,Education
+32,30,0,1,0,0,1,Design
+56,38,0,0,1,1,1,Education
+80,92,1,0,0,1,0,IT
+33,52,0,0,0,0,0,Social Sciences
+65,42,1,0,0,0,1,Social Sciences
+57,95,1,0,1,0,0,Social Sciences
+35,57,1,1,1,1,1,Business
+91,91,0,0,0,0,1,Medicine
+32,99,1,0,0,1,0,IT
+80,73,1,0,0,1,1,IT
+81,91,0,1,1,1,1,Medicine
+68,31,0,0,0,0,1,Education
+88,31,1,1,1,0,0,Social Sciences
+30,48,1,1,0,1,1,Social Sciences
+61,99,1,0,1,0,0,Social Sciences
+85,46,0,1,1,0,1,Business
+99,40,0,1,1,0,0,Design
+88,99,1,0,0,1,1,Engineering
+88,65,0,1,0,0,0,Design
+49,100,1,0,0,1,1,IT
+68,30,0,1,0,0,1,Design
+52,60,1,1,0,0,1,Social Sciences
+45,89,0,1,0,1,1,Medicine
+41,98,0,1,0,0,0,Medicine
+48,77,1,0,1,1,1,IT
+62,53,1,0,0,1,1,IT
+67,54,0,1,1,1,1,Business
+95,83,0,1,0,0,1,Design
+62,97,0,1,0,1,1,Medicine
+37,36,0,0,1,0,1,Education
+88,51,1,1,1,1,0,Engineering
+80,83,1,0,0,1,0,IT
+59,57,0,1,0,0,1,Design
+90,77,0,1,0,1,0,Design
+46,73,1,1,0,1,0,Social Sciences
+35,66,1,0,0,1,0,IT
+89,92,0,0,1,0,0,Medicine
+96,47,0,1,0,1,1,Design
+96,75,1,1,1,0,1,Business
+52,95,0,0,1,1,1,Medicine
+46,62,0,0,1,1,0,Social Sciences
+71,55,0,1,0,1,0,Design
+89,36,0,1,0,1,0,Design
+37,45,1,1,0,0,0,Social Sciences
+95,61,0,0,1,0,0,Social Sciences
+87,92,1,0,1,1,1,Engineering
+78,81,1,1,0,1,0,Social Sciences
+89,37,0,1,1,1,0,Design
+97,35,0,1,1,1,0,Design
+84,69,1,1,0,1,1,Engineering
+59,48,0,1,0,0,1,Design
+87,84,1,0,1,0,1,Social Sciences
+52,38,1,0,0,1,1,IT
+30,63,1,1,1,1,0,Social Sciences
+30,45,0,0,1,0,0,Social Sciences
+51,96,1,1,1,0,0,Social Sciences
+86,58,1,1,0,0,0,Social Sciences
+91,98,1,1,1,1,1,Engineering
+68,62,1,1,0,0,1,Social Sciences
+39,98,1,1,1,0,1,Business
+48,87,1,0,1,0,0,Social Sciences
+33,45,1,1,0,1,0,Social Sciences
+61,53,1,1,0,1,0,Social Sciences
+62,90,0,0,0,1,0,Medicine
+94,62,1,1,0,1,0,Engineering
+42,41,0,1,1,0,0,Design
+64,37,0,1,1,1,1,Business
+63,36,1,1,0,1,0,Social Sciences
+58,65,0,0,0,0,1,Education
+39,53,1,0,0,0,1,Social Sciences
+65,53,0,1,1,0,1,Business
+84,42,0,0,0,0,1,Education
+46,91,1,1,0,1,0,Social Sciences
+88,48,0,1,1,0,0,Design
+48,38,0,1,1,0,1,Business
+81,45,0,0,0,1,0,Social Sciences
+81,82,0,1,0,0,0,Design
+82,71,1,0,1,0,1,Social Sciences
+34,64,0,0,0,0,1,Education
+38,87,1,0,0,1,0,IT
+75,42,1,1,0,1,0,Social Sciences
+95,34,0,0,1,0,1,Education
+94,46,0,0,0,0,1,Education
+65,99,1,0,0,0,1,Social Sciences
+83,68,0,1,1,0,0,Design
+96,74,0,1,1,1,1,Business
+49,90,0,0,0,0,0,Medicine
+91,92,1,0,0,1,0,Engineering
+67,35,1,1,0,1,0,Social Sciences
+90,76,0,1,1,0,0,Design
+65,48,1,0,1,0,0,Social Sciences
+78,43,0,0,0,0,1,Education
+32,45,0,0,0,1,1,Education
+45,53,1,0,1,1,1,IT
+65,37,1,1,1,1,1,Business
+70,93,0,1,0,0,0,Medicine
+62,58,0,1,0,0,1,Design
+98,76,0,1,1,1,1,Business
+34,62,1,0,1,1,0,IT
+78,40,0,1,0,0,1,Design
+88,56,0,0,0,1,0,Social Sciences
+30,50,1,0,1,1,0,IT
+98,34,1,0,0,0,0,Social Sciences
+82,66,1,1,0,0,0,Social Sciences
+30,80,0,0,1,1,0,Social Sciences
+61,63,1,0,1,0,1,Social Sciences
+63,83,1,0,0,1,1,IT
+94,83,1,0,1,1,0,Engineering
+86,46,1,0,0,0,0,Social Sciences
+43,95,0,0,0,1,1,Medicine
+67,79,1,1,1,0,0,Social Sciences
+80,92,1,1,0,1,0,Social Sciences
+59,80,0,0,0,1,1,Education
+85,46,1,0,1,1,1,Engineering
+98,63,1,0,1,0,1,Social Sciences
+72,52,0,1,0,0,1,Design
+45,37,1,1,1,1,0,Social Sciences
+96,96,0,0,1,1,0,Medicine
+80,48,0,0,1,1,1,Education
+90,51,0,1,0,0,0,Design
+41,75,1,0,1,1,0,IT
+56,55,0,0,0,1,0,Social Sciences
+85,92,1,0,0,1,1,Engineering
+30,37,0,0,0,1,0,Social Sciences
+76,85,1,1,1,1,0,Social Sciences
+31,55,1,0,1,0,0,Social Sciences
+32,52,1,0,0,1,0,IT
+47,67,0,0,0,1,0,Social Sciences
+57,68,0,0,0,1,1,Education
+73,54,0,0,1,0,1,Education
+39,96,0,0,1,0,1,Medicine
+63,37,1,0,1,0,1,Social Sciences
+70,35,1,1,1,1,0,Social Sciences
+85,88,0,1,0,0,0,Medicine
+82,51,0,1,1,0,1,Business
+33,91,1,1,0,1,0,Social Sciences
+38,32,0,0,1,0,1,Education
+53,35,1,1,1,0,1,Business
+35,80,1,0,1,0,0,Social Sciences
+37,55,0,0,1,0,1,Education
+55,97,0,1,0,1,0,Medicine
+41,76,0,1,1,1,1,Business
+66,40,0,1,0,0,0,Design
+62,35,1,1,1,0,0,Social Sciences
+39,73,1,0,1,1,1,IT
+94,92,0,0,0,0,0,Medicine
+44,53,1,0,0,1,0,IT
+78,98,1,1,1,1,1,Business
+38,63,1,0,0,0,1,Social Sciences
+93,51,1,1,0,1,0,Engineering
+43,89,1,0,0,0,0,Social Sciences
+55,91,1,0,0,1,0,IT
+47,69,1,0,1,1,1,IT
+80,67,0,0,0,0,0,Social Sciences
+54,46,0,0,0,1,1,Education
+82,80,0,0,1,1,0,Social Sciences
+36,80,1,1,1,1,0,Social Sciences
+58,62,1,1,0,0,1,Social Sciences
+58,67,0,0,0,0,0,Social Sciences
+84,62,1,1,1,1,1,Engineering
+34,67,0,0,0,1,0,Social Sciences
+81,85,0,0,1,0,0,Social Sciences
+76,97,1,0,1,0,0,Social Sciences
+65,65,1,0,0,0,1,Social Sciences
+40,67,1,1,0,0,1,Social Sciences
+75,41,1,0,1,1,1,IT
+89,72,1,1,1,1,1,Engineering
+34,66,1,0,1,0,1,Social Sciences
+60,38,1,0,0,1,1,IT
+70,40,0,0,1,0,0,Social Sciences
+65,83,0,0,0,0,1,Education
+84,69,0,0,0,0,0,Social Sciences
+38,81,0,0,1,0,0,Social Sciences
+92,54,1,0,1,1,0,Engineering
+63,46,1,0,0,1,0,IT
+80,83,1,0,0,1,1,IT
+62,78,0,0,0,1,1,Education
+57,78,0,0,1,0,0,Social Sciences
+49,92,0,1,0,0,0,Medicine
+42,80,0,1,0,1,1,Design
+59,58,0,0,0,1,1,Education
+69,48,1,0,1,0,0,Social Sciences
+95,67,0,0,1,0,1,Education
+58,84,0,0,1,1,1,Education
+63,84,1,1,1,0,0,Social Sciences
+37,94,0,0,0,1,0,Medicine
+88,83,0,0,0,0,0,Social Sciences
+37,63,0,1,1,1,1,Business
+75,45,1,1,0,1,0,Social Sciences
+43,84,1,1,0,1,0,Social Sciences
+62,52,0,0,1,0,0,Social Sciences
+65,58,1,1,1,0,0,Social Sciences
+98,49,0,1,0,1,0,Design
+41,49,0,0,1,1,1,Education
+38,82,1,0,1,1,1,IT
+53,59,1,0,1,0,1,Social Sciences
+43,38,1,1,0,0,0,Social Sciences
+51,33,1,1,0,0,1,Social Sciences
+66,99,1,1,0,1,1,Social Sciences
+70,67,1,0,0,0,1,Social Sciences
+56,86,0,1,0,1,1,Medicine
+41,82,0,1,0,0,1,Design
+91,75,1,1,1,1,0,Engineering
+94,80,0,1,0,1,0,Design
+50,40,1,0,1,1,0,IT
+88,68,1,0,1,1,0,Engineering
+53,51,0,1,0,1,1,Design
+49,91,0,0,0,1,0,Medicine
+55,95,0,0,0,1,0,Medicine
+30,90,0,1,1,0,0,Medicine
+64,32,1,0,1,1,0,IT
+41,48,0,1,0,0,0,Design
+90,46,1,0,0,0,0,Social Sciences
+41,91,1,1,0,1,0,Social Sciences
+50,99,1,0,1,0,1,Social Sciences
+44,88,1,0,0,1,0,IT
+61,39,1,0,0,0,1,Social Sciences
+36,43,0,0,0,0,0,Social Sciences
+77,88,0,0,1,0,1,Medicine
+68,47,0,1,0,0,1,Design
+60,53,0,1,1,0,1,Business
+32,66,0,1,1,0,0,Design
+68,44,1,0,1,0,1,Social Sciences
+54,42,1,0,1,0,1,Social Sciences
+95,84,0,1,1,1,0,Design
+42,42,1,1,1,0,0,Social Sciences
+68,75,1,0,1,0,0,Social Sciences
+91,86,1,1,1,0,0,Social Sciences
+39,59,0,0,0,1,0,Social Sciences
+94,78,0,0,1,1,1,Education
+97,47,1,0,0,1,0,Engineering
+82,44,0,0,1,1,1,Education
+88,66,0,0,0,1,1,Education
+68,85,0,1,1,0,1,Business
+54,100,1,1,0,1,1,Social Sciences
+92,83,0,0,0,1,1,Education
+86,70,0,1,0,1,1,Design
+34,34,1,0,0,0,0,Social Sciences
+49,90,0,1,0,1,1,Medicine
+91,46,1,0,1,0,1,Social Sciences
+42,97,1,0,1,0,0,Social Sciences
+85,96,0,1,0,0,0,Medicine
+54,71,0,0,1,0,0,Social Sciences
+40,88,1,1,1,0,1,Business
+34,77,1,1,1,0,1,Business
+77,57,0,0,0,1,1,Education
+74,91,0,0,1,0,1,Medicine
+69,69,0,0,0,0,1,Education
+48,69,1,0,0,0,1,Social Sciences
+70,42,0,0,0,0,1,Education
+92,56,1,1,0,0,0,Social Sciences
+74,87,0,0,0,0,1,Medicine
+39,61,0,0,1,0,0,Social Sciences
+31,41,0,1,1,0,1,Business
+56,46,1,0,1,1,1,IT
+64,99,0,1,0,1,0,Medicine
+92,57,1,0,1,0,0,Social Sciences
+51,97,1,1,1,1,1,Business
+93,46,1,1,0,1,1,Engineering
+94,51,1,1,0,1,1,Engineering
+43,93,0,0,1,1,0,Medicine
+81,36,0,0,0,1,0,Social Sciences
+61,80,0,1,0,1,1,Design
+75,58,1,0,0,0,0,Social Sciences
+68,44,0,0,0,0,1,Education
+61,31,0,1,1,1,0,Design
+56,96,0,1,1,1,1,Medicine
+50,76,1,0,0,1,1,IT
+48,86,0,0,0,0,1,Medicine
+67,44,1,0,0,1,0,IT
+54,53,1,1,0,1,1,Social Sciences
+56,89,1,0,0,0,0,Social Sciences
+37,56,1,1,1,0,0,Social Sciences
+93,73,0,1,1,1,0,Design
+49,75,0,0,1,1,0,Social Sciences
+46,38,1,1,0,1,0,Social Sciences
+31,40,1,0,0,1,0,IT
+47,93,1,1,0,0,1,Social Sciences
+61,40,0,0,0,1,1,Education
+70,37,0,1,0,1,0,Design
+46,75,1,0,1,1,1,IT
+49,62,1,1,1,1,1,Business
+31,62,0,0,1,0,0,Social Sciences
+55,51,0,1,1,0,1,Business
+75,44,1,1,0,1,0,Social Sciences
+90,96,0,1,0,1,0,Medicine
+61,70,1,1,1,1,1,Business
+91,91,0,0,0,0,0,Medicine
+33,35,1,1,1,0,0,Social Sciences
+70,89,1,1,0,1,1,Social Sciences
+41,41,0,0,0,0,1,Education
+48,84,1,1,0,1,0,Social Sciences
+82,84,1,0,1,1,1,Engineering
+47,51,0,1,1,0,0,Design
+32,57,1,0,0,0,0,Social Sciences
+83,92,0,0,0,1,0,Medicine
+60,87,0,1,1,0,1,Medicine
+49,89,1,1,0,0,1,Social Sciences
+65,95,0,1,1,1,0,Medicine
+71,87,1,0,1,0,0,Social Sciences
+47,69,0,0,0,0,1,Education
+37,71,1,1,1,1,0,Social Sciences
+66,98,1,0,0,1,1,IT
+89,43,1,0,0,1,1,Engineering
+99,46,0,0,0,1,1,Education
+64,34,0,0,1,1,1,Education
+65,74,0,0,0,0,1,Education
+96,43,1,1,0,1,1,Engineering
+30,34,1,1,0,1,0,Social Sciences
+86,93,1,1,1,0,0,Social Sciences
+66,76,0,1,0,0,0,Design
+73,85,1,0,0,1,1,IT
+90,49,1,1,1,0,0,Social Sciences
+66,49,1,0,0,0,0,Social Sciences
+99,88,0,0,0,0,1,Medicine
+41,49,0,1,1,0,0,Design
+79,58,0,0,0,1,0,Social Sciences
+72,79,0,1,1,1,0,Design
+74,81,1,1,1,1,0,Social Sciences
+37,30,0,1,0,1,1,Design
+34,76,1,0,0,0,1,Social Sciences
+72,59,1,1,0,1,1,Social Sciences
+76,75,1,0,0,0,0,Social Sciences
+43,82,1,0,0,1,1,IT
+95,93,1,0,0,0,0,Social Sciences
+77,42,0,0,0,0,0,Social Sciences
+97,33,1,0,1,1,1,Engineering
+42,52,0,0,0,0,1,Education
+83,100,0,0,0,0,1,Medicine
+100,44,0,0,1,0,0,Social Sciences
+62,78,1,0,0,1,1,IT
+40,95,1,0,0,0,1,Social Sciences
+77,95,1,1,0,0,1,Social Sciences
+54,41,0,1,1,0,0,Design
+73,44,0,1,0,1,1,Design
+72,50,0,0,0,1,0,Social Sciences
+44,54,1,0,0,0,1,Social Sciences
+50,42,1,0,1,1,0,IT
+97,81,1,0,0,0,1,Social Sciences
+64,37,1,1,1,1,1,Business
+31,78,0,1,1,0,1,Business
+36,68,0,0,0,0,1,Education
+71,90,1,1,1,1,1,Business
+36,83,0,1,1,0,1,Business
+76,42,0,1,1,0,1,Business
+38,55,0,0,1,1,1,Education
+71,53,1,0,1,0,0,Social Sciences
+97,79,1,0,1,1,0,Engineering
+47,48,1,1,0,0,1,Social Sciences
+98,76,0,0,1,1,0,Social Sciences
+50,51,1,0,0,0,1,Social Sciences
+100,61,0,1,0,1,0,Design
+86,54,1,1,0,0,0,Social Sciences
+47,96,1,1,0,0,0,Social Sciences
+53,89,1,0,1,1,1,IT
+71,61,0,0,1,1,1,Education
+65,32,0,1,0,0,1,Design
+70,97,0,0,1,1,1,Medicine
+34,73,0,1,0,1,1,Design
+79,96,1,1,0,1,0,Social Sciences
+99,31,0,1,1,1,0,Design
+64,59,1,1,1,1,1,Business
+65,98,0,0,0,0,0,Medicine
+84,91,1,0,0,1,1,Engineering
+46,45,1,1,1,0,1,Business
+59,52,1,0,1,1,0,IT
+94,59,0,1,1,1,1,Business
+61,62,0,1,1,1,1,Business
+43,65,0,0,1,0,1,Education
+31,94,0,0,1,1,0,Medicine
+55,97,1,0,1,0,1,Social Sciences
+72,44,1,1,0,1,1,Social Sciences
+41,78,1,1,1,0,0,Social Sciences
+59,59,1,1,0,1,0,Social Sciences
+81,43,0,0,0,0,1,Education
+31,64,1,1,1,1,1,Business
+39,54,1,0,0,1,0,IT
+65,43,0,1,1,1,1,Business
+81,32,0,0,1,0,0,Social Sciences
+37,50,1,1,0,0,1,Social Sciences
+74,89,1,1,1,1,1,Business
+42,60,1,1,1,0,1,Business
+92,35,1,0,0,1,1,Engineering
+89,52,0,0,0,0,0,Social Sciences
+63,39,0,1,1,0,1,Business
+60,85,0,0,0,0,0,Social Sciences
+50,57,1,1,0,0,1,Social Sciences
+45,33,1,0,1,0,0,Social Sciences
+81,81,1,1,1,0,1,Business
+92,92,1,1,0,0,0,Social Sciences
+56,43,0,0,0,1,0,Social Sciences
+84,31,1,0,0,1,1,Engineering
+50,39,0,1,1,0,0,Design
+94,42,0,1,1,0,0,Design
+82,74,1,1,0,0,0,Social Sciences
+89,40,0,0,1,1,0,Social Sciences
+55,97,1,1,1,1,1,Business
+81,58,1,1,0,1,0,Engineering
+93,46,1,0,0,0,1,Social Sciences
+89,77,0,0,1,1,1,Education
+89,50,1,0,0,1,1,Engineering
+88,78,0,0,1,0,1,Education
+74,98,1,1,0,0,0,Social Sciences
+37,72,0,0,0,1,0,Social Sciences
+53,46,0,1,0,1,1,Design
+60,40,1,0,0,0,0,Social Sciences
+57,80,0,1,0,0,1,Design
+37,93,1,1,0,1,1,Social Sciences
+37,54,0,1,0,1,0,Design
+78,65,1,1,1,0,0,Social Sciences
+91,39,0,1,1,0,1,Business
+31,42,0,1,0,1,1,Design
+61,40,1,0,0,1,1,IT
+84,54,1,0,1,1,1,Engineering
+51,59,1,0,1,1,0,IT
+75,50,0,1,1,1,0,Design
+68,41,0,0,1,0,0,Social Sciences
+50,37,1,1,1,0,0,Social Sciences
+51,51,1,0,0,1,1,IT
+58,81,0,1,0,0,0,Design
+52,73,0,1,0,0,0,Design
+85,32,0,1,0,0,0,Design
+59,68,1,0,0,1,0,IT
+37,87,1,1,0,1,0,Social Sciences
+32,94,1,1,0,1,1,Social Sciences
+39,50,1,1,0,0,0,Social Sciences
+95,70,1,0,0,1,1,Engineering
+87,83,1,0,1,1,0,Engineering
+63,82,0,1,0,1,0,Design
+99,85,0,0,1,1,0,Social Sciences
+33,49,1,1,1,0,1,Business
+66,83,1,0,0,1,1,IT
+75,33,1,0,0,1,0,IT
+100,33,0,1,0,1,0,Design
+87,84,1,1,1,1,1,Engineering
+63,59,1,0,0,1,1,IT
+48,78,0,1,0,1,1,Design
+59,87,1,0,0,1,1,IT
+48,77,0,1,1,0,0,Design
+84,47,0,1,0,0,1,Design
+76,86,1,1,0,0,0,Social Sciences
+99,33,1,1,0,0,0,Social Sciences
+99,76,1,1,0,0,0,Social Sciences
+45,98,0,1,0,1,1,Medicine
+32,99,0,0,0,0,0,Medicine
+48,71,0,1,1,0,0,Design
+93,66,1,0,0,1,1,Engineering
+34,99,1,1,1,0,0,Social Sciences
+64,30,1,0,1,1,0,IT
+83,75,1,1,1,0,0,Social Sciences
+53,65,0,1,1,1,1,Business
+59,36,0,0,1,1,1,Education
+39,45,1,0,1,0,0,Social Sciences
+99,73,0,0,1,1,0,Social Sciences
+86,50,1,1,0,0,0,Social Sciences
+99,44,1,1,1,0,1,Business
+44,77,0,0,1,1,1,Education
+43,86,0,1,0,1,0,Medicine
+32,66,1,0,0,0,0,Social Sciences
+41,90,0,0,1,0,1,Medicine
+100,62,0,1,0,0,1,Design
+57,87,0,0,0,1,0,Medicine
+46,99,1,1,1,0,1,Business
+34,31,1,1,0,1,1,Social Sciences
+45,80,0,0,1,1,1,Education
+69,67,1,0,1,0,1,Social Sciences
+92,78,1,1,0,0,1,Social Sciences
+55,97,1,1,1,0,1,Business
+43,56,0,0,1,1,1,Education
+55,92,1,0,1,1,0,IT
+73,71,1,0,1,0,1,Social Sciences
+52,79,0,0,0,0,0,Social Sciences
+41,37,1,1,1,0,1,Business
+84,38,0,0,1,1,1,Education
+71,89,1,1,1,1,0,Social Sciences
+32,32,0,1,0,1,1,Design
+62,30,0,1,1,0,1,Business
+77,33,1,1,1,1,0,Social Sciences
+61,38,1,0,1,0,1,Social Sciences
+30,92,0,0,0,0,1,Medicine
+42,63,1,1,1,1,0,Social Sciences
+88,56,0,0,0,0,1,Education
+54,49,1,1,1,1,0,Social Sciences
+90,38,1,1,1,1,0,Engineering
+89,73,0,0,1,0,1,Education
+32,59,1,1,0,1,1,Social Sciences
+91,62,0,0,1,1,0,Social Sciences
+80,76,1,1,0,0,0,Social Sciences
+77,51,0,0,1,0,1,Education
+44,64,0,1,0,1,1,Design
+95,69,1,1,0,0,1,Social Sciences
+49,30,1,0,0,1,0,IT
+96,33,1,0,0,1,0,Engineering
+92,50,0,0,0,0,1,Education
+43,46,0,0,0,1,0,Social Sciences
+35,52,0,0,1,1,1,Education
+67,43,1,0,1,1,0,IT
+48,59,0,1,0,1,0,Design
+54,69,1,1,1,1,0,Social Sciences
+51,77,0,0,1,0,0,Social Sciences
+71,48,0,1,1,0,0,Design
+92,48,0,1,1,1,1,Business
+82,90,1,1,0,1,0,Engineering
+93,62,1,1,0,1,0,Engineering
+82,88,1,1,0,1,0,Engineering
+97,37,1,0,0,1,1,Engineering
+70,84,1,0,1,0,1,Social Sciences
+59,41,0,0,1,1,1,Education
+50,98,1,1,0,0,1,Social Sciences
+62,90,0,1,0,0,1,Medicine
+94,37,0,0,0,1,1,Education
+83,75,0,0,0,0,1,Education
+81,51,1,0,0,1,1,Engineering
+58,80,1,0,0,1,1,IT
+33,51,1,0,0,1,1,IT
+95,63,0,0,0,0,1,Education
+67,35,1,0,1,0,0,Social Sciences
+41,35,1,0,1,0,1,Social Sciences
+94,86,0,0,0,0,1,Medicine
+43,64,1,0,1,1,0,IT
+42,90,1,0,1,0,1,Social Sciences
+37,72,1,1,0,1,0,Social Sciences
+78,93,1,1,0,1,1,Social Sciences
+38,66,0,0,0,1,0,Social Sciences
+80,88,0,0,0,0,0,Medicine
+93,40,1,0,0,0,0,Social Sciences
+75,74,0,1,1,0,1,Business
+90,41,0,1,0,0,1,Design
+98,37,0,0,1,0,1,Education
+76,78,0,1,1,1,1,Business
+97,62,0,1,1,0,0,Design
+57,69,1,0,0,1,1,IT
+44,70,0,1,0,0,0,Design
+95,80,0,0,1,1,1,Education
+80,68,1,0,1,1,0,IT
+31,67,0,1,1,1,1,Business
+70,41,0,0,0,0,0,Social Sciences
+91,78,0,0,0,0,1,Education
+67,57,0,1,0,1,1,Design
+74,82,1,1,1,1,1,Business
+61,96,0,1,1,0,0,Medicine
+92,52,1,0,1,1,1,Engineering
+86,62,1,0,1,1,1,Engineering
+66,36,1,0,1,0,0,Social Sciences
+76,49,0,0,1,1,1,Education
+64,72,0,0,0,1,0,Social Sciences
+78,67,1,0,1,1,1,IT
+85,94,0,1,0,0,1,Medicine
+98,59,1,1,0,0,0,Social Sciences
+74,33,1,0,1,1,0,IT
+93,80,1,1,0,0,0,Social Sciences
+59,71,0,1,0,0,1,Design
+64,35,1,1,1,0,0,Social Sciences
+58,88,0,1,1,0,0,Medicine
+51,97,0,0,0,0,0,Medicine
+63,82,0,0,0,0,1,Education
+61,80,1,0,0,1,0,IT
+50,73,0,0,1,0,0,Social Sciences
+92,53,0,0,0,0,1,Education
+40,80,0,0,0,1,1,Education
+53,48,0,0,0,1,1,Education
+34,46,0,1,1,0,0,Design
+93,40,1,0,0,1,1,Engineering
+50,40,0,1,0,0,1,Design
+49,70,1,1,1,1,0,Social Sciences
+48,55,1,1,1,1,1,Business
+99,84,1,1,1,0,0,Social Sciences
+91,52,0,0,0,1,0,Social Sciences
+80,82,1,0,1,1,0,IT
+76,33,0,0,0,1,0,Social Sciences
+74,48,0,1,0,0,0,Design
+42,76,1,0,0,0,1,Social Sciences
+51,72,0,1,1,1,1,Business
+50,95,0,1,0,1,1,Medicine
+86,76,0,0,1,1,1,Education
+100,59,0,0,0,1,0,Social Sciences
+66,30,0,0,0,1,1,Education
+34,89,1,0,0,0,1,Social Sciences
+64,95,0,1,0,0,1,Medicine
+75,33,1,0,1,0,0,Social Sciences
+32,43,1,0,0,1,1,IT
+74,90,0,0,1,1,1,Medicine
+69,46,0,1,1,1,1,Business
+89,95,1,1,0,1,0,Engineering
+60,63,0,0,1,0,1,Education
+84,56,1,0,0,0,0,Social Sciences
+94,46,0,1,0,0,0,Design
+48,82,0,0,0,1,0,Social Sciences
+84,52,1,1,1,1,1,Engineering
+83,81,1,1,1,1,1,Engineering
+57,82,1,0,1,1,0,IT
+33,88,0,1,1,1,0,Medicine
+60,63,1,1,1,0,0,Social Sciences
+78,86,0,0,1,0,1,Medicine
+47,67,0,0,1,1,1,Education
+70,35,0,1,0,1,0,Design
+57,40,0,0,0,0,0,Social Sciences
+56,63,1,1,1,1,0,Social Sciences
+80,42,0,0,1,1,1,Education
+80,66,0,1,0,1,0,Design
+62,89,0,0,1,0,1,Medicine
+76,52,0,0,0,0,0,Social Sciences
+62,53,1,0,0,1,0,IT
+54,50,1,0,0,1,0,IT
+71,46,0,1,1,0,1,Business
+70,76,1,1,1,1,0,Social Sciences
+100,42,1,0,0,1,0,Engineering
+31,45,0,0,1,0,1,Education
+85,74,0,1,0,1,1,Design
+36,65,1,0,1,1,1,IT
+73,50,1,1,1,1,0,Social Sciences
+50,42,0,0,1,1,1,Education
+82,73,0,0,1,1,0,Social Sciences
+66,53,1,1,0,1,1,Social Sciences
+39,64,0,0,0,1,0,Social Sciences
+41,83,1,1,0,0,0,Social Sciences
+89,94,1,0,1,1,0,Engineering
+87,56,1,0,1,0,0,Social Sciences
+63,66,1,0,1,1,0,IT
+54,62,0,1,0,1,0,Design
+41,45,1,0,0,1,0,IT
+36,80,0,1,0,1,0,Design
+74,88,1,1,0,0,0,Social Sciences
+58,57,0,0,1,0,1,Education
+33,38,0,0,1,1,1,Education
+79,44,1,1,1,0,0,Social Sciences
+88,100,1,0,1,0,1,Social Sciences
+74,40,0,0,1,1,1,Education
+57,94,0,0,1,1,1,Medicine
+83,89,0,0,0,0,1,Medicine
+55,34,1,1,0,0,1,Social Sciences
+83,62,1,1,0,1,0,Engineering
+90,50,1,0,1,1,1,Engineering
+91,75,0,0,1,0,1,Education
+35,37,1,0,0,1,0,IT
+79,40,0,1,1,1,0,Design
+45,97,0,1,1,1,1,Medicine
+88,91,0,1,0,0,0,Medicine
+47,48,0,0,1,1,1,Education
+55,35,1,1,0,0,0,Social Sciences
+46,72,0,1,1,1,0,Design
+37,42,1,1,1,1,1,Business
+94,72,0,0,0,1,1,Education
+73,38,0,1,1,0,1,Business
+57,71,0,0,0,1,1,Education
+95,84,1,1,0,1,0,Engineering
+56,96,1,0,0,1,1,IT
+38,83,1,0,0,1,0,IT
+30,61,0,0,0,0,0,Social Sciences
+49,64,0,0,0,0,1,Education
+46,47,0,1,0,1,0,Design
+97,94,1,0,1,1,0,Engineering
+49,39,0,0,0,0,0,Social Sciences
+94,46,1,1,1,0,0,Social Sciences
+97,98,1,0,1,0,0,Social Sciences
+55,48,0,1,0,0,0,Design
+100,55,1,0,0,1,1,Engineering
+52,44,1,1,0,0,1,Social Sciences
+70,48,1,0,1,1,1,IT
+97,44,0,0,0,0,0,Social Sciences
+53,56,1,0,0,1,1,IT
+53,53,1,1,0,1,0,Social Sciences
+78,82,1,1,0,0,0,Social Sciences
+82,91,0,0,0,0,1,Medicine
+83,99,0,0,1,1,0,Medicine
+67,90,1,0,1,0,1,Social Sciences
+76,97,1,1,1,0,0,Social Sciences
+65,70,0,0,0,1,1,Education
+59,91,0,0,1,0,0,Medicine
+86,76,1,1,0,1,1,Engineering
+51,83,0,1,0,1,0,Design
+60,71,1,1,0,1,0,Social Sciences
+38,40,1,1,1,0,0,Social Sciences
+97,77,1,0,0,0,0,Social Sciences
+94,92,0,0,1,0,0,Medicine
+95,44,1,0,0,1,0,Engineering
+52,68,0,1,0,0,1,Design
+70,42,1,1,1,1,0,Social Sciences
+32,92,0,1,1,0,0,Medicine
+84,93,0,0,0,1,0,Medicine
+61,97,1,0,0,0,1,Social Sciences
+64,87,0,1,1,0,0,Medicine
+33,88,0,0,1,0,0,Medicine
+78,69,0,0,0,0,0,Social Sciences
+35,42,1,1,1,0,0,Social Sciences
+72,49,0,1,1,0,1,Business
+51,86,0,1,0,1,1,Medicine
+96,45,0,0,0,1,1,Education
+41,82,0,0,0,1,0,Social Sciences
+35,34,0,1,1,0,1,Business
+88,62,1,1,1,0,0,Social Sciences
+98,95,1,0,0,1,0,Engineering
+42,83,0,0,0,1,0,Social Sciences
+48,83,0,1,1,0,1,Business
+92,86,1,1,1,0,1,Business
+46,95,1,1,0,1,1,Social Sciences
+70,98,1,1,1,0,0,Social Sciences
+78,100,0,0,1,1,0,Medicine
+64,31,1,1,1,1,1,Business
+55,72,0,0,0,0,0,Social Sciences
+49,70,1,1,1,0,1,Business
+95,59,0,1,1,0,1,Business
+56,39,0,0,1,1,1,Education
+88,88,1,1,0,1,0,Engineering
+55,39,0,0,0,1,0,Social Sciences
+77,50,0,1,1,1,1,Business
+59,54,0,1,0,0,0,Design
+97,36,0,0,1,0,0,Social Sciences
+39,65,0,0,1,1,1,Education
+61,35,1,1,0,1,1,Social Sciences
+56,83,1,0,1,0,0,Social Sciences
+54,57,0,0,1,0,0,Social Sciences
+56,55,0,1,1,0,0,Design
+70,71,1,1,0,1,0,Social Sciences
+52,81,0,1,0,0,0,Design
+98,72,1,1,1,0,0,Social Sciences
+79,96,1,1,0,0,1,Social Sciences
+77,39,1,1,0,0,1,Social Sciences
+88,92,0,1,1,0,1,Medicine
+94,37,0,1,1,0,0,Design
+35,68,0,1,1,0,1,Business
+66,38,1,1,0,0,1,Social Sciences
+90,87,0,0,1,1,1,Medicine
+69,65,1,1,0,0,0,Social Sciences
+47,92,1,1,0,1,0,Social Sciences
+33,36,0,0,1,1,1,Education
+30,84,0,1,1,1,0,Design
+30,67,0,1,0,0,0,Design
+50,100,0,0,0,1,0,Medicine
+64,97,0,0,1,1,1,Medicine
+56,85,1,0,0,0,0,Social Sciences
+92,81,1,0,0,0,1,Social Sciences
+61,84,1,0,1,1,1,IT
+78,87,0,1,0,0,0,Medicine
+90,38,1,0,0,0,0,Social Sciences
+51,70,1,0,1,0,0,Social Sciences
+96,59,0,0,1,0,0,Social Sciences
+66,42,1,1,1,0,1,Business
+52,74,0,0,1,0,1,Education
+35,47,1,1,1,0,1,Business
+61,71,0,1,1,1,0,Design
+65,63,0,1,1,0,1,Business
+68,76,1,0,0,1,0,IT
+57,53,1,0,0,0,0,Social Sciences
+62,91,0,0,0,1,1,Medicine
+76,94,0,1,1,0,0,Medicine
+30,63,0,1,0,0,1,Design
+78,93,0,0,0,1,1,Medicine
+55,46,0,0,0,1,0,Social Sciences
+96,36,1,0,0,0,0,Social Sciences
+91,46,0,0,0,0,0,Social Sciences
+58,61,1,1,1,0,1,Business
+57,85,0,0,0,1,1,Education
+70,80,1,0,0,1,0,IT
+48,95,0,0,0,0,0,Medicine
+82,75,1,0,1,1,0,Engineering
+77,95,1,1,1,1,1,Business
+86,65,0,1,1,0,0,Design
+74,95,0,0,1,0,1,Medicine
+93,96,0,0,1,1,1,Medicine
+69,88,0,1,1,0,1,Medicine
+59,31,1,1,0,0,1,Social Sciences
+60,90,1,0,1,0,1,Social Sciences
+37,87,0,1,0,1,0,Medicine
+87,93,1,0,0,0,1,Social Sciences
+38,35,0,1,0,1,0,Design
+32,50,1,1,1,1,0,Social Sciences
+91,71,1,1,0,0,0,Social Sciences
+83,45,1,1,0,0,1,Social Sciences
+88,31,1,1,1,1,1,Engineering
+40,31,1,1,0,1,0,Social Sciences
+47,91,1,0,1,1,1,IT
+96,67,0,1,0,0,1,Design
+74,57,0,1,1,0,0,Design
+36,51,1,0,0,0,0,Social Sciences
+33,52,0,1,1,1,1,Business
+62,57,1,0,0,0,1,Social Sciences
+99,50,1,0,0,0,1,Social Sciences
+75,79,1,1,0,1,1,Social Sciences
+88,58,0,1,0,1,1,Design
+31,37,0,0,1,0,1,Education
+67,77,0,1,1,0,0,Design
+60,90,1,0,0,0,0,Social Sciences
+44,45,0,0,0,0,1,Education
+88,50,0,1,0,1,0,Design
+77,64,1,1,0,1,1,Social Sciences
+78,61,0,0,1,0,1,Education
+32,98,0,0,1,0,0,Medicine
+97,90,0,0,0,0,1,Medicine
+90,72,0,1,1,0,0,Design
+53,40,1,1,0,1,0,Social Sciences
+92,88,0,0,0,1,1,Medicine
+33,71,1,1,0,1,0,Social Sciences
+61,40,0,1,0,0,1,Design
+50,73,0,0,0,0,0,Social Sciences
+83,51,0,0,1,0,1,Education
+94,44,1,1,1,1,1,Engineering
+76,75,1,1,1,1,1,Business
+62,88,0,0,1,1,1,Medicine
+49,67,0,1,1,1,1,Business
+42,95,0,0,1,1,1,Medicine
+83,55,0,1,1,1,0,Design
+51,49,1,0,1,1,1,IT
+84,45,1,1,0,0,1,Social Sciences
+74,88,0,1,1,0,0,Medicine
+64,80,1,0,1,0,0,Social Sciences
+86,37,0,0,0,1,1,Education
+49,82,0,1,0,0,1,Design
+71,58,0,1,0,1,1,Design
+100,87,1,0,1,1,1,Engineering
+39,61,1,0,0,1,0,IT
+66,69,1,1,1,1,0,Social Sciences
+40,93,1,0,1,1,1,IT
+39,68,1,0,1,0,0,Social Sciences
+65,55,1,1,0,1,1,Social Sciences
+67,51,1,0,0,0,1,Social Sciences
+75,91,0,1,1,1,1,Medicine
+53,73,1,1,1,0,0,Social Sciences
+94,86,0,1,0,1,1,Medicine
+38,51,0,0,1,1,0,Social Sciences
+69,46,0,1,0,0,0,Design
+68,42,0,1,0,1,1,Design
+92,73,1,0,1,0,0,Social Sciences
+77,47,1,0,0,1,0,IT
+91,42,0,0,0,0,1,Education
+89,43,0,1,1,1,0,Design
+54,61,0,1,0,1,1,Design
+82,96,1,0,0,1,1,Engineering
+51,67,1,0,1,1,0,IT
+35,61,0,1,0,1,0,Design
+78,88,0,0,0,0,1,Medicine
+81,70,0,1,0,1,1,Design
+51,33,0,0,0,1,1,Education
+78,49,1,0,0,1,1,IT
+30,44,0,0,1,1,1,Education
+52,75,1,1,0,1,0,Social Sciences
+88,42,0,0,0,1,0,Social Sciences
+90,45,0,1,1,1,0,Design
+46,59,0,0,1,1,0,Social Sciences
+42,72,0,1,0,1,0,Design
+69,44,0,1,1,1,0,Design
+82,81,1,0,0,1,0,Engineering
+83,30,1,0,0,1,1,Engineering
+38,61,0,1,0,0,1,Design
+86,37,1,0,1,1,0,Engineering
+71,91,0,0,0,0,0,Medicine
+46,61,1,0,0,0,1,Social Sciences
+52,85,1,1,1,1,0,Social Sciences
+93,83,1,0,0,0,0,Social Sciences
+40,78,0,0,1,0,1,Education
+57,46,1,0,1,1,1,IT
+95,67,0,0,0,1,1,Education
+78,72,1,1,0,1,1,Social Sciences
+61,89,1,0,1,1,0,IT
+85,57,0,1,1,1,1,Business
+92,33,1,1,0,0,0,Social Sciences
+45,85,1,0,1,0,1,Social Sciences
+54,63,0,1,1,1,1,Business
+55,49,1,1,1,0,0,Social Sciences
+53,34,0,1,0,1,0,Design
+44,64,1,0,0,1,1,IT
+76,63,0,0,1,1,1,Education
+33,77,0,1,0,1,0,Design
+95,59,0,1,0,0,1,Design
+78,91,0,0,1,1,0,Medicine
+44,81,0,1,0,0,1,Design
+34,99,0,0,1,1,0,Medicine
+97,47,0,1,0,1,1,Design
+52,93,0,1,1,1,0,Medicine
+81,90,1,0,1,0,0,Social Sciences
+84,66,1,0,0,1,0,Engineering
+98,88,1,1,0,1,1,Engineering
+80,59,0,1,1,1,0,Design
+92,93,0,0,1,1,1,Medicine
+87,85,0,1,0,0,1,Design
+30,84,1,1,0,0,0,Social Sciences
+94,92,1,1,1,0,0,Social Sciences
+51,67,0,0,1,1,1,Education
+76,46,0,1,1,0,0,Design
+67,74,1,0,1,1,0,IT
+90,44,1,0,0,0,0,Social Sciences
+60,64,1,1,0,1,1,Social Sciences
+78,52,0,1,1,0,0,Design
+49,35,1,0,1,1,1,IT
+33,46,0,1,1,0,0,Design
+73,44,0,0,0,0,1,Education
+64,64,0,1,1,0,1,Business
+77,73,1,1,0,0,0,Social Sciences
+100,79,0,0,1,1,0,Social Sciences
+99,87,1,1,0,1,0,Engineering
+97,69,0,1,1,1,1,Business
+33,74,1,1,1,0,1,Business
+60,32,1,1,1,0,0,Social Sciences
+60,74,1,1,0,1,1,Social Sciences
+86,59,1,1,1,1,0,Engineering
+68,89,1,0,1,0,0,Social Sciences
+98,35,1,1,0,1,1,Engineering
+33,52,1,1,1,1,0,Social Sciences
+69,35,1,1,0,0,0,Social Sciences
+40,72,0,1,1,0,1,Business
+70,34,1,1,1,1,0,Social Sciences
+51,94,1,1,1,0,0,Social Sciences
+32,38,1,1,0,1,0,Social Sciences
+47,52,1,0,0,0,0,Social Sciences
+76,59,0,1,1,0,1,Business
+54,87,1,0,0,0,0,Social Sciences
+77,39,0,0,0,0,0,Social Sciences
+74,36,0,0,1,1,1,Education
+31,71,1,1,0,0,1,Social Sciences
+47,88,1,1,1,0,1,Business
+76,77,1,1,1,0,1,Business
+31,88,0,0,0,0,1,Medicine
+36,92,0,0,1,0,1,Medicine
+41,42,1,0,0,0,0,Social Sciences
+65,37,0,1,1,1,1,Business
+76,59,0,1,1,1,0,Design
+81,66,0,0,0,1,0,Social Sciences
+75,81,0,0,1,0,1,Education
+66,56,0,1,0,1,0,Design
+99,92,1,1,1,1,1,Engineering
+47,98,1,1,1,0,0,Social Sciences
+63,42,0,1,1,0,1,Business
+51,81,1,0,1,0,0,Social Sciences
+48,67,1,1,0,0,0,Social Sciences
+49,38,1,1,1,1,0,Social Sciences
+49,66,1,1,1,0,1,Business
+63,71,0,1,0,0,1,Design
+48,60,1,0,0,0,0,Social Sciences
+60,82,1,1,0,1,1,Social Sciences
+31,95,1,1,0,1,1,Social Sciences
+45,75,0,0,0,0,1,Education
+30,40,0,0,1,0,1,Education
+79,41,0,0,0,0,1,Education
+94,76,1,0,1,0,1,Social Sciences
+53,33,1,0,1,0,1,Social Sciences
+79,72,0,0,0,1,0,Social Sciences
+56,83,1,0,1,1,1,IT
+83,59,1,1,1,0,1,Business
+39,89,1,1,0,0,1,Social Sciences
+71,76,0,1,1,0,1,Business
+86,56,0,1,1,1,1,Business
+95,41,1,0,1,1,0,Engineering
+39,77,1,0,1,1,0,IT
+80,65,1,1,0,1,0,Social Sciences
+86,95,0,0,1,0,1,Medicine
+53,50,1,1,1,0,1,Business
+43,63,1,1,1,1,1,Business
+99,65,0,1,1,1,0,Design
+90,85,0,1,0,0,1,Design
+49,47,1,0,0,1,0,IT
+45,88,0,1,0,1,0,Medicine
+99,41,1,0,0,0,1,Social Sciences
+90,100,1,1,0,1,0,Engineering
+70,83,0,1,1,0,0,Design
+56,72,0,0,0,0,0,Social Sciences
+83,91,0,1,1,0,0,Medicine
+64,34,0,0,1,0,0,Social Sciences
+51,95,0,0,1,0,0,Medicine
+30,73,0,1,0,0,0,Design
+83,58,1,1,1,0,1,Business
+75,96,0,0,1,0,0,Medicine
+30,95,0,1,1,1,0,Medicine
+80,62,0,1,0,0,0,Design
+49,68,1,0,1,0,1,Social Sciences
+74,72,0,0,1,0,1,Education
+81,82,0,1,0,0,1,Design
+71,55,0,0,0,1,0,Social Sciences
+49,85,0,1,0,0,1,Design
+84,40,1,1,0,0,1,Social Sciences
+72,48,1,1,1,1,1,Business
+71,94,0,1,1,0,1,Medicine
+76,36,0,0,0,1,0,Social Sciences
+41,55,1,1,1,0,0,Social Sciences
+66,75,0,1,1,0,0,Design
+83,86,1,1,1,0,1,Business
+78,36,1,1,0,1,1,Social Sciences
+74,52,1,1,0,0,0,Social Sciences
+55,54,1,0,0,0,1,Social Sciences
