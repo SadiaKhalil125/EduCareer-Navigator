@@ -2,7 +2,7 @@
 
 **Idea Credits** (Core Idea credit goes to Fassih Shah) 
 https://github.com/FassihShah
--
+
 
 A comprehensive AI-powered guidance system that provides personalized university admissions advice and career recommendations using LangGraph workflows, machine learning, and MongoDB for persistent chat history.
 
