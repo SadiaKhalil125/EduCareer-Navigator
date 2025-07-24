@@ -149,12 +149,7 @@ brew install mongodb-community
 # Download from https://www.mongodb.com/try/download/community
 ```
 
-#### Option B: Docker MongoDB
-```bash
-docker run -d -p 27017:27017 --name mongodb mongo:latest
-```
-
-#### Option C: MongoDB Atlas (Cloud)
+#### Option B: MongoDB Atlas (Cloud)
 1. Create account at [MongoDB Atlas](https://www.mongodb.com/atlas)
 2. Create a cluster and get connection string
 3. Update environment variables
