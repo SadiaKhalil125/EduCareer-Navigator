@@ -6,6 +6,10 @@ https://github.com/FassihShah
 
 A comprehensive AI-powered guidance system that provides personalized university admissions advice and career recommendations using LangGraph workflows, machine learning, and MongoDB for persistent chat history.
 
+**Demos**:
+**Career Counsellor Separate** https://drive.google.com/file/d/1RlaSj0uyPRkeEZk1xQ-a7XH8rhabxP2N/view?usp=drivesdk
+**Universities Advisor Separate** https://drive.google.com/file/d/1Rp-qIvWwjUdyGg7HUCRAGMjgNXyD5wJj/view?usp=drivesdk
+**ReAct Agent with combined functionality** https://drive.google.com/file/d/12hqYucmc0ZpOCou23Z749ODshdAmRziB/view?usp=drive_link
 
 ## 📋 Table of Contents
 
